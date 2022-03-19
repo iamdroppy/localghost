@@ -6,7 +6,7 @@ This is a project for local deployments. All subdomains from this domain (http:/
 
 ## But why? I can use /etc/hosts or something else!
 
-Yes, indeed! You can use cusom DNS, hosts, or anything, but you won't have SSL! Every 3 months I renew the SSL and make it available here, so you can download and use localhost with SSL for local development.
+Yes, indeed! You can use custom DNS, hosts, or anything, but you won't have SSL! Every 3 months I renew the SSL and make it available here, so you can download and use localhost with SSL for local development.
 
 Many softwares require you to use HTTPs for deployment and this is a very simple solution. You can do it yourself if you like but I have taken the liberty of doing this for the community
 
